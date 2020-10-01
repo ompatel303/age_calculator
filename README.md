@@ -1,3 +1,5 @@
+<!--This is an age calculator, In order to use it, you have to run it first and then insert your age-->
+
 # age_calculator
 
 <!DOCTYPE html>
